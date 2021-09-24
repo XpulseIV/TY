@@ -2,6 +2,8 @@
 
 float sqrt(int n) 
 {
+    double root = 0;
+    
     
     
     return root;
